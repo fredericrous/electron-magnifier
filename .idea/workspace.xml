@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e66b42a-32d5-439a-8087-bfc5641fe0dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/draggable.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="cvkf9mcp" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kHbJ1GGKweomheWaGSLVCI3o70" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e66b42a-32d5-439a-8087-bfc5641fe0dd" name="Default Changelist" comment="" />
+      <created>1605360389097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605360389097</updated>
+      <workItem from="1605360395300" duration="21343000" />
+      <workItem from="1605466418371" duration="1035000" />
+      <workItem from="1605517507233" duration="38871000" />
+      <workItem from="1606047916047" duration="19616000" />
+      <workItem from="1606348584985" duration="1350000" />
+      <workItem from="1606639203524" duration="21086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605457109009">
+      <screen x="64" y="23" width="1856" height="1057" />
+    </state>
+    <state x="392" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/53.1103.1792.1097/64.23.1856.1057@64.23.1856.1057" timestamp="1605457109009" />
+    <state x="429" y="210" key="SettingsEditor" timestamp="1605360675348">
+      <screen x="64" y="23" width="1728" height="1097" />
+    </state>
+    <state x="429" y="210" key="SettingsEditor/64.23.1728.1097@64.23.1728.1097" timestamp="1605360675348" />
+    <state x="732" y="1564" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605558816891">
+      <screen x="53" y="1103" width="1792" height="1097" />
+    </state>
+    <state x="732" y="1564" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/53.1103.1792.1097/64.23.1856.1057@53.1103.1792.1097" timestamp="1605558816891" />
+    <state x="580" y="163" width="601" height="807" key="find.popup" timestamp="1607038499014">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="580" y="163" width="601" height="807" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1607038499014" />
+    <state x="633" y="1243" width="600" height="807" key="find.popup/53.1103.1792.1097/64.23.1856.1057@53.1103.1792.1097" timestamp="1605521866805" />
+    <state x="623" y="163" width="579" height="807" key="find.popup/64.23.1728.1097@64.23.1728.1097" timestamp="1605653571915" />
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1606871502649">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1606871502649" />
+  </component>
+</project>
